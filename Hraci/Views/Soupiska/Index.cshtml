@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Hraci.Models.Soupiska>
+
+@{
+    ViewBag.Title = "Soupiska";
+}
+
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Jmeno)
+        </th>
+        
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.Jmeno + " " + item.Prijmeni, "Details", new { id = item.Id }, new { Style = "color:red" })
+        </td>
+        
+        
+        <td>
+           
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) 
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            
+            @Html.ActionLink("Details", "Details", new { id = item.Id })
+            
+        </td>
+    </tr>
+}
+
+</table>
+<br /><br/><br /><br /><br /><br /><br /><br />
+
+<p>
+    @Html.ActionLink("Přidej hráče", "Create", new { Style = "margin:400px 0px 0px 20px" })
+</p>

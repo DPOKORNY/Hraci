@@ -1,0 +1,198 @@
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\ApplicationInsights.config
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\csc.exe
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\csc.exe.config
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\csc.rsp
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\csi.exe
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\csi.rsp
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\System.AppContext.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\System.Collections.Immutable.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\System.IO.FileSystem.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\vbc.exe
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\vbc.exe.config
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\vbc.rsp
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\VBCSCompiler.exe
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\roslyn\VBCSCompiler.exe.config
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Hraci.dll.config
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Hraci.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Hraci.pdb
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Antlr3.Runtime.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\EntityFramework.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\EntityFramework.SqlServer.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.Web.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.WindowsServer.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.ApplicationInsights.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Google.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Web.Infrastructure.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Newtonsoft.Json.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Owin.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Helpers.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Mvc.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Optimization.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Razor.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.WebPages.Deployment.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.WebPages.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.WebPages.Razor.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\WebGrease.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Helpers.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Mvc.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Optimization.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.Razor.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.WebPages.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.WebPages.Deployment.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\System.Web.WebPages.Razor.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Antlr3.Runtime.pdb
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Newtonsoft.Json.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\EntityFramework.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\EntityFramework.SqlServer.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Google.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.ApplicationInsights.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.WindowsServer.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\bin\Microsoft.AI.Web.xml
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\obj\Debug\Hraci.dll
+c:\users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\obj\Debug\Hraci.pdb
+C:\Users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\obj\Debug\Hraci.Migrations.InitialCreate.resources
+C:\Users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\obj\Debug\Hraci.csproj.GenerateResource.Cache
+C:\Users\danpo\documents\visual studio 2017\Projects\Hraci\Hraci\obj\Debug\Hraci.Migrations.AddModelValidations.resources
+C:\Users\danpo\Documents\Visual Studio 2017\Projects\Hraci\Hraci\obj\Debug\Hraci.csprojResolveAssemblyReference.cache
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\ApplicationInsights.config
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\csc.exe
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\csc.exe.config
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\csc.rsp
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\csi.exe
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\csi.rsp
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\System.AppContext.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\vbc.exe
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\vbc.exe.config
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\vbc.rsp
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\VBCSCompiler.exe
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Hraci.dll.config
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Hraci.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Hraci.pdb
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Antlr3.Runtime.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\EntityFramework.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\EntityFramework.SqlServer.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.Web.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.ApplicationInsights.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Newtonsoft.Json.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Owin.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Helpers.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Mvc.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Optimization.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Razor.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.WebPages.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.WebPages.Razor.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\WebGrease.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Helpers.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Mvc.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Optimization.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.Razor.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.WebPages.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\System.Web.WebPages.Razor.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Antlr3.Runtime.pdb
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Newtonsoft.Json.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\EntityFramework.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\EntityFramework.SqlServer.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.ApplicationInsights.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\bin\Microsoft.AI.Web.xml
+C:\Users\danpo\Desktop\Hraci\Hraci\obj\Debug\Hraci.Migrations.InitialCreate.resources
+C:\Users\danpo\Desktop\Hraci\Hraci\obj\Debug\Hraci.Migrations.AddModelValidations.resources
+C:\Users\danpo\Desktop\Hraci\Hraci\obj\Debug\Hraci.csproj.GenerateResource.Cache
+C:\Users\danpo\Desktop\Hraci\Hraci\obj\Debug\Hraci.dll
+C:\Users\danpo\Desktop\Hraci\Hraci\obj\Debug\Hraci.pdb
+C:\Users\danpo\Desktop\Hraci\Hraci\obj\Debug\Hraci.csprojResolveAssemblyReference.cache

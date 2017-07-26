@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <header>
+        <div id="logo"><h1>AC SPARTA Praha</h1></div>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Domů", "Index", "Home")</li>
+                <li>@Html.ActionLink("Soupiska", "Index", "Soupiska")</li>
+                <li>@Html.ActionLink("Registrace", "Index", "Account/Register")</li>
+                <li>@Html.ActionLink("Přihlášení", "Index", "Account/Login")</li>
+                <li>@Html.ActionLink("Členi", "Index", "Users")</li>
+            </ul>
+        </nav>
+    </header>
+
+    <article>
+        <div id="centrovac">
+            <header>
+                <h1>@ViewBag.Title</h1>
+            </header>
+
+            <section>
+                <div class="container body-content">
+                    @RenderBody()
+                </div>
+            </section>
+            <div class="cistic"></div>
+        </div>
+    </article>
+
+    <footer>
+        Vytvořil &copy;Dan 2017 
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

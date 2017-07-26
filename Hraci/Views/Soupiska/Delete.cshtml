@@ -1,0 +1,19 @@
+﻿@model Hraci.Models.Soupiska
+
+@{
+    ViewBag.Title = "Odstranění hráče";
+}
+
+
+<h3>Opravdu chcete smazat hráče: @Model.Jmeno @Model.Prijmeni?</h3>
+
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color centrovany">
+            <input type="submit" value="Odstranit" class="btn btn-default" /> |
+            @Html.ActionLink("Zpět na soupisku", "Index")
+        </div>
+    }
+

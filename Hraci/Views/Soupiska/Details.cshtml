@@ -1,0 +1,54 @@
+﻿@model Hraci.Models.Soupiska
+
+@{
+    ViewBag.Title = Model.Jmeno+" "+Model.Prijmeni;
+}
+
+
+
+<div>
+    
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Jmeno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Jmeno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prijmeni)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prijmeni)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Narodnost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Narodnost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Post)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Post)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Popis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Popis)
+        </dd>
+
+    </dl>
+</div>
