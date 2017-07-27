@@ -90,7 +90,7 @@ article {
         background: none;
     }
 
-    article section {
+    article>div>section {
         height:400px;
         width: 666px;
         float: left;
