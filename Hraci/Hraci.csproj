@@ -276,6 +276,7 @@
     <Content Include="Views\Soupiska\Edit.cshtml" />
     <Content Include="Views\Soupiska\Index.cshtml" />
     <Content Include="Views\Users\Index.cshtml" />
+    <Content Include="Views\Home\AjaxRequest.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
